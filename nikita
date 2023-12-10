@@ -1,1 +1,13 @@
-Im Nikita]
+# This is my repository
+### My name is Nikita O.
+*There is Example of my code:*
+```javascript
+let isAlive = true;
+do {
+code();
+}
+while(isAlive);
+function code() { alert('Hello world');
+***
+This is Unordered list:
+* [my phone number](+420 725 540 689)*
